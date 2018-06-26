@@ -7,6 +7,4 @@ def fizzbuzz(int)
    puts "Buzz"
   if(int % 3 && int % 5)
     puts "FizzBuzz"
-  else
-    nil
 end
