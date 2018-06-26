@@ -1,7 +1,13 @@
 # Don't forget! This file needs to be 'required' in its spec file
 # See README.md for instructions on how to do this
 def fizzbuzz(int)
-  if int % 3 == 0 # if the number int is divisible by 3
-    "Fizz" # Go fizz
+    if number == % 3
+    puts ('Fizz')
+  elsif number == % 5
+    puts ('Buzz')
+  elsif number == %15
+    puts ('FizzBuzz')
+  elseif
+    nil
   end
 end
