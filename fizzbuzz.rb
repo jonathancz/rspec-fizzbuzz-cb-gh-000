@@ -7,7 +7,7 @@ def fizzbuzz(int)
     puts ('Buzz')
   elsif number == %15
     puts ('FizzBuzz')
-  elseif
+  elsif
     nil
   end
 end
